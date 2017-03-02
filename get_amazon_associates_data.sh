@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# a little script to pul last 7 day of tsv files from amazon associates report site
+
 # get list of file types to loop through
 filelist=("00-20-earnings-report-" "00-20-orders-report-" "00-20-tracking-report-")
 
