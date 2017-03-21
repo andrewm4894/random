@@ -1,5 +1,6 @@
 """
 ### My first dag to play around with bigquery and gcp stuff.
+One altenrative approach to: http://stackoverflow.com/questions/42930221/best-way-to-loop-through-parameters-in-airflow
 """
 
 from airflow import DAG
