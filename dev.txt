@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Pretty Printed</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+  <!-- Custom styles for this template -->
+  <link href="css/freelancer.css" rel="stylesheet">
+  <link rel="shortcut icon" href="/img/favicon.ico">
+  <link rel="stylesheet" href="css/style.css" />
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-70951837-1', 'auto');
+    ga('send', 'pageview');
+  
+  </script>
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="https://prettyprinted.com">
+            <img src="img/PrettyPrinted_Avatar.png" width="30" height="30" >
+Pretty Printed</a>
+      <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/#tutorials">Tutorials</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/#courses">Courses</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/#about">About</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/coaching">Need Help?</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded" href="https://courses.prettyprinted.com/courses/enrolled">Login</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead bg-primary text-white text-center">
+    <div class="container">
+      <h1 class="text-uppercase mb-0">Pretty Printed</h1>
+      <hr class="star-light">
+      <h2 class="font-weight-light mb-0">Python Web Development Tutorials</h2>
+    </div>
+  </header>
+
+  <!-- Portfolio Grid Section -->
+    <section class="portfolio" id="tutorials">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-secondary mb-0">Tutorials</h2>
+      <hr class="star-dark mb-5">
+      <div class="row">
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://prettyprinted.com/tutorials/creating-a-poll-app-in-django">
+          <h3>Creating a Poll App in Django</h3>
+          </a>
+          <p>Create a poll app in Django so users can create, view, and vote in polls.</p>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://prettyprinted.com/tutorials/automatically_load_environment_variables_in_flask">
+          <h3>Automatically Load Enviornment Variables in Flask</h3>
+          </a>
+          <p>Learn how to use python dotenv to automatically load environment variables into your Flask projects.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="portfolio" id="courses">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-secondary mb-0">Courses</h2>
+      <hr class="star-dark mb-5">
+      <div class="row">
+          <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/create-apis-with-django">
+            <img class="img-fluid" src="img/create_apis_with_django.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/understanding-django">
+            <img class="img-fluid" src="img/understanding_django.png" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/the-flask-extensions-course">
+            <img class="img-fluid" src="img/the_flask_extensions_course.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/flask-for-beginners">
+            <img class="img-fluid" src="img/flaskforbeginners.png" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/python-requests">
+            <img class="img-fluid" src="img/learnpythonrequestslogo.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/flask-sqlalchemy-basics">
+            <img class="img-fluid" src="img/flask sqlachemy basics.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/django-database-essentials">
+            <img class="img-fluid" src="img/django database essentials.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/intro-to-django-course">
+            <img class="img-fluid" src="img/intro to django.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="https://courses.prettyprinted.com/p/intro-to-flask">
+            <img class="img-fluid" src="img/intro to flask.jpg" alt="">
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="bg-primary text-white mb-0" id="about">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-white">About</h2>
+      <hr class="star-light mb-5">
+      <img class="img-fluid mb-5 d-block mx-auto" src="img/myphoto.jpg" alt="" style="border-radius: 50%;">
+      <div class="row">
+        <div class="col-lg-4 ml-auto">
+          <p class="lead">Iâm Anthony Herbert. Iâve been programming in some capacity since 2004 in various languages.</p>
+        </div>
+        <div class="col-lg-4 mr-auto">
+          <p class="lead">I started the Pretty Printed YouTube channel in 2015 so I can help other learns what Iâve learned. Iâve decided to focus on Python primarily, but occasionally, Iâll venture to other languages.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-secondary mb-0">Need Help?</h2>
+      <hr class="star-dark mb-5">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <p class="lead">Need any assistance with your app? I can help through my coaching program. <a href="/coaching">Click here to learn more.</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 offset-md-4 mb-5 mb-lg-0">
+          <h4 class="text-uppercase mb-4">Around the Web</h4>
+          <ul class="list-inline mb-0">
+            <li class="list-inline-item">
+              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://youtube.com/c/prettyprintedtutorials">
+                <i class="fab fa-fw fa-youtube"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://github.com/prettyprinted">
+                <i class="fab fa-fw fa-github"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/pretty_printed">
+                <i class="fab fa-fw fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="copyright py-4 text-center text-white">
+    <div class="container">
+      <small>Copyright &copy; PrettyPrinted.com 2019</small>
+    </div>
+  </div>
+
+  <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+  <div class="scroll-to-top d-lg-none position-fixed ">
+    <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+      <i class="fa fa-chevron-up"></i>
+    </a>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/freelancer.min.js"></script>
+</body>
+
+</html>
