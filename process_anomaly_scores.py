@@ -47,7 +47,7 @@ if __name__ == "__main__":
     # handle args
     parser = argparse.ArgumentParser(description='Process anomaly scores.')
     parser.add_argument('--url', help='url from netdata dashboard',
-                        default='http://127.0.0.1:19999/#menu_system_submenu_cpu;theme=slate')
+                        default='http://35.193.228.190:19999/')
     parser.add_argument('--n', help='top n charts by anomaly score', default=20)
     args = parser.parse_args()
     url = args.url
